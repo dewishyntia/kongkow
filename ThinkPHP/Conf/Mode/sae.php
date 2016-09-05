@@ -13,7 +13,7 @@
  * ThinkPHP SAE application file schema definition 
  */
 return array(
-    // 配置文件
+    // Profile
     'config'    =>  array(
         THINK_PATH.'Conf/convention.php',   // system configuration practices
         CONF_PATH.'config.php',      // apply common configuration
